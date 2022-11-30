@@ -1,6 +1,6 @@
-## <h1 align="center"> Olá 👋, meu nome é <strong>Rossana Sena!💜</strong></h1>
+## <h1 align="center"> Olá 👋, meu nome é <strong>Rossana Sena!</strong></h1>
 
-<h3 align="center"> Sou desenvolvedora, encantada pelo Front-End</h3>
+<h3 align="center"> Sou desenvolvedora encantada pelo Front-End</h3>
 
 <h3 align="left">💬 Conecte comigo:</h3>
 <p align="left">
