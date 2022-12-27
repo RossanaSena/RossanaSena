@@ -1,9 +1,9 @@
 ## <h1 align="center"> Olá 👋, meu nome é <strong>Rossana Sena!</strong></h1>
 
-<h3 align="center"> Sou desenvolvedora encantada pelo Front-End</h3>
+<h3 align="center"> Sou desenvolvedora descobrindo e me apaixonando pelo Front-End</h3>
 
-<h3 align="left">💬 Conecte comigo:</h3>
-<p align="left">
+<h3 align="center">💬 Conecte comigo:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/rossanasena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rossanasena/" height="30" width="40" /></a>
 </p>
 
